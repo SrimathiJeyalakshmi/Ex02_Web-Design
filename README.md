@@ -19,6 +19,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+````
 <html>
 <title>sample webpage</title>
 <head>  <h1 align="centre">Saveetha Engineering College</h1>
