@@ -43,10 +43,9 @@
   <li>Mechanical Engineering </li>
   </body>
   </html>
-  ```
-
+```
 ## OUTPUT
-![EX 02](https://user-images.githubusercontent.com/127816530/228881460-07a0ef54-676f-4d1a-86dc-9441e51d5e36.png)
+![EX 02](https://user-images.githubusercontent.com/127816530/228883905-afc9b643-bc21-42e3-9495-b29eb708ebfc.png)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
