@@ -19,7 +19,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-````
+~~~
 <html>
 <title>sample webpage</title>
 <head>  <h1 align="centre">Saveetha Engineering College</h1>
@@ -43,7 +43,7 @@
   <li>Mechanical Engineering </li>
   </body>
   </html>
-```
+~~~
 ## OUTPUT
 ![EX 02](https://user-images.githubusercontent.com/127816530/228883905-afc9b643-bc21-42e3-9495-b29eb708ebfc.png)
 
